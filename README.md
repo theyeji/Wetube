@@ -6,11 +6,11 @@ Cloning Youtube with Vanilla and NodeJS
 
 - [ ] Home
 - [ ] Join
-- [ ] Login
+- [x] Login
 - [x] Search
 - [ ] User Detail
-- [ ] Edit Profile
-- [ ] Change Password
-- [ ] Upload
+- [x] Edit Profile
+- [x] Change Password
+- [x] Upload
 - [ ] Video Detail
-- [ ] Edit Video
+- [x] Edit Video
